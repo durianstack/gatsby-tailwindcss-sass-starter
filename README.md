@@ -19,7 +19,7 @@ _Have another more specific idea? You may want to check out our vibrant collecti
 
     ```sh
     # create a new Gatsby site using the default starter
-    npx gatsby new awesome-gatsby-site
+    npx gatsby new awesome-gatsby-site https://github.com/durianstack/gatsby-tailwindcss-sass-starter
     ```
 
 1.  **Start developing.**
@@ -97,4 +97,4 @@ Looking for more guidance? Full documentation for Gatsby lives [on the website](
 
 ## 💫 Deploy
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/gatsbyjs/gatsby-starter-default)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/durianstack/gatsby-tailwindcss-sass-starter)
