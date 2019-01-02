@@ -85,8 +85,6 @@ A quick look at the top-level files and directories you'll see in a Gatsby proje
   
   13. **`tailwind.js`**: This is the [TailwindCSS](https://tailwindcss.com/docs/what-is-tailwind) [configuration file](https://tailwindcss.com/docs/configuration). It's where you define your color palette, font stacks, type scale, border sizes, breakpoints, opacity scale, you name it. Your config file is like an executable style guide for your project.
 
-  14.  **`yarn.lock`**: [Yarn](https://yarnpkg.com/) is a package manager alternative to npm. You can use either yarn or npm, though all of the Gatsby docs reference npm.  This file serves essentially the same purpose as `package-lock.json`, just for a different package management system.
-
 ## 🎓 Learning Gatsby
 
 Looking for more guidance? Full documentation for Gatsby lives [on the website](https://www.gatsbyjs.org/). Here are some places to start:
