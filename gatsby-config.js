@@ -9,6 +9,14 @@ module.exports = {
         postCssPlugins: [require('tailwindcss')('./tailwind.js')],
       },
     },
+    { 
+      resolve: `gatsby-plugin-purgecss`,
+      options: {
+        printRejected: true,
+        develop: true, // Enable while using `gatsby develop`
+        tailwind: true, // Enable tailwindcss support
+      }
+    },
     'gatsby-plugin-react-helmet',
     {
       resolve: `gatsby-source-filesystem`,
